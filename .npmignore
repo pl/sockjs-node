@@ -1,5 +1,4 @@
 .gitignore
 lib/.placeholder
 VERSION-GEN
-src
 node_modules
